@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "name": "revisao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/claudioborges98/revisao.git",
+  "author": "claudioborges98 <claudio.borges10@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
